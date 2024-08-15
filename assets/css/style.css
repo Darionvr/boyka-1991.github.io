@@ -539,6 +539,7 @@ main {
  .footer .nav a {
    font-size: 20px;
    color: rgba(255, 255, 255, 0.75);
+   padding-left: 5px;
  }
 
  .footer .nav a:hover {
